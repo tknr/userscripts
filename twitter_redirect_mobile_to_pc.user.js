@@ -7,6 +7,7 @@
 // @match        https://mobile.twitter.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=twitter.com
 // @grant        none
+// @updateURL    https://github.com/tknr/userscripts/raw/main/twitter_redirect_mobile_to_pc.user.js
 // ==/UserScript==
 
 (function() {
