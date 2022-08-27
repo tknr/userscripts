@@ -1,6 +1,6 @@
 # userscripts
 
-## twitter redirect mibile to pc 
+## twitter redirect mobile to pc 
 
 redirect "mobile.twitter.com/*" to "twitter.com/*" .
 
